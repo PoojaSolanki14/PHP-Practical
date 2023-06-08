@@ -1,0 +1,121 @@
+1 what is an activity?
+2 give full form:OHA
+3 what is Android SDk?
+1 define activity
+2__ is the central command centre for an android application
+3 what is the basic use of resources?
+used to provide external content such as images ,strings ,colors etc to application
+1 full form of APK
+Android Package Kit
+2 full fork of avm
+Android Virtual Machine
+3 in which folder all the image will be store in android
+"res/drawable”
+4 in which folder all the android ui design will be stored?
+"res/layout"
+1 full form of oha
+2 full form of sdk
+3 in which file all the permissions will be taken 
+manifest file
+4 in which folder all the design file will be saved in android
+
+1 name the folder where animations are stored
+res/anim
+2 write the main use of Date picker.
+used to pick a date in android appliaction
+3__ layout is a view group that aligns all children in a single direction.
+LinerLayout
+1__ component allows user to select the time of the day
+time picker
+2 what is the basic use of Edittext control?
+retrive and modify the text data form user in android app.
+3 define linear layout
+1 which method of java is used to find element from xml 
+getDocumentElement()
+2 relative layout provide horizontal and vertical design option true or false
+true
+3 absoulte layout work on the base of x and y pos true or false?
+4 text view is the name of textbox in android true or false
+false
+1 in which folder animation will be stored?
+res/anim
+2 which layout is used to arrange control only by horizontal or vertical way
+LinearLayout
+3 what is the name of textbox control in android
+editText
+4 what is the name of label control in android
+TextView
+
+
+1 give full form : API
+2 android has a built-in database named__
+SQLite
+3 data sharing between applications is possible using__
+1 what is a parameterized query?
+a query in which placeholders are used for parameters 
+2__ statement in SQlite is used to update data into table
+update 
+3 what is Retrofit?
+an easy and fast library to retrive and upload data via a REST based web services 
+1 what is the full form of api
+2 which is the default internal database support by android
+SQLite
+3 which 2 method is provide by sqlliteopenhelper class
+onCreate()
+onUpgrade()
+4 list out any two method support by sqllitedatabase class
+insert()
+update()
+delete()
+
+1 give full form:GPS
+2 what is a web API?
+3 __ API is used to moniter current state of phone/communication.
+1 write the full form of JSON
+2 what is the basic use of location APIs?
+to provide awareness of user actions and their environment
+3 what is notification in android?
+1__ default databse provide by android
+SQLite
+2 oncreate and onupgrade method is derived from which class
+SQLiteOpenHelper class
+3 __ concept is used to share their data between other application
+4 __ method is used to save data in sqlite database
+getWritableDatabase()
+getReadableDatabase()
+1 android application upload in which store?
+Google Play Store
+2 ___ class is used to find location in androird
+LocationManager
+3 full form of lbs
+4 ful form of api
+1 what is the full form of gps 
+2 what is the full form of json
+3 in which stored we can upload android application
+4 which permission need for use vibration service in android?
+
+
+1 give full form of : MVC
+2 __ control is used to display the text
+3 a text field allows typing in multiple lines: true/false
+1 which os is used by iphone?
+Mac OS
+2 what is the use of button control?
+3 what is framework?
+A framework is a software development concept that provides a set of pre-written and reusable code libraries, components, and tools that developers can use to build applications more efficiently and effectively.
+1 android studio is used to developed iphone app true or false
+false
+2 mvc fullform 
+model View Controller
+3 iphone app upload in google playstore true false
+False
+4 __ ide is used for iphone develpoment
+1 in which store all the iphone application will be upload
+Apple App Store
+2 which ide is used to developed iphone application
+XCode
+3 full form of mvc
+4 full form of ide
+
+
+
